@@ -5,7 +5,7 @@ Cost analysis for the Technobot motor interface board (Electronic Fabrication, L
 | Ref | Qty | Description | Vendor | Vendor part # | Unit price (1) | Unit price (bulk) | Line total (1) | Line total (bulk) |
 |---|---:|---|---|---|---:|---:|---:|---:|
 | C3,C4 | 2 | Capacitor, Multilayer Ceramic, 10,000pF/50V SMT | Mouser | 80-C0805C103K5R7210 | $0.11 | $0.04 | $0.22 | $0.08 |
-| C1,C2 | 2 | Capacitor, Electrolytic, 10uF/50V, SMT | Mouser | 667-EEE-1HA100WR | $0.11 | $0.04 | $0.22 | $0.08 |
+| C1,C2 | 2 | Capacitor, Electrolytic , 10uF/50V, SMT | Mouser | 667-EEE-1HA100WR | $0.11 | $0.04 | $0.22 | $0.08 |
 | D1-D10 | 10 | Diode, Rectifier FM4004, SMT | Mouser | 583-FM4004 | $0.33 | $0.15 | $3.30 | $1.50 |
 | LED1-LED4 | 4 | LED, Standard - Red Water Clr, 80mcd 642nm, SMT | Mouser | 645-598-8110-107F | $0.22 | $0.14 | $0.88 | $0.56 |
 | Q1-Q7 | 7 | Transistor, BJT MMBT3904LT1 NPN (SMT 2N3904) | Mouser | 863-MMBT3904LT1G | $0.28 | $0.15 | $1.96 | $1.05 |
